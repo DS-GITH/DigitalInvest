@@ -38,6 +38,15 @@ header .logo{
 
 }
 
+header .logo .dot{
+    background-color: brown;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 header nav{
     display: inline-block;
 
